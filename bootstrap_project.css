@@ -1,0 +1,309 @@
+.top-row{
+    background-color: #eeeeee;
+    border-top: 3px solid #14c0c9;
+}
+
+.top-row ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.top-row li{
+    display: inline;
+    margin-left: 10px;
+    text-align: left;
+    color: #8c8c8c;
+}
+
+.top-row a{
+    color: #8c8c8c;
+}
+
+.top-row a:hover{
+    color: #00bcf9;
+}
+
+.top-row p{
+    color: #8c8c8c;
+}
+
+.login a{
+    color: #00bcf9;
+}
+
+.row_two ul{
+    list-style-type: none;
+    padding: 15px;
+    margin: 15px;
+}
+
+.row_two li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+}
+
+.row_two a{
+    text-decoration: none;
+    background-color: #e0e0de;
+    border-radius: 0;
+    padding: 5px;
+    color: #949494;
+}
+
+.button1 a{
+    text-decoration: none;
+    background-color: #00bcf9;
+    color: white;
+}
+
+.home {
+    background-color: white;
+}
+
+.home ul{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.home li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.home a{
+    color: black;
+    text-decoration: none;
+}
+
+.home a:hover{
+    color: #00bcf9;
+}
+
+.latest p{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900px;
+}
+
+.arrow {
+    text-align: right;
+}
+
+.arrow a{
+    text-decoration: none;
+    background-color: #e0e0de;
+    border-radius: 0;
+    padding: 5px;
+    color: #949494
+}
+
+.items p{
+    text-transform: uppercase;
+    font-size: 11px;
+}
+
+.cart a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.cart1 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;   
+}
+
+.cart2 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.cart3 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.welcome p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.welcome a{
+    color: #00bcf9;
+}
+
+.bestseller p{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900px;
+}
+
+.arrow1 {
+    text-align: right;
+}
+
+.arrow1 a{
+    text-decoration: none;
+    background-color: #e0e0de;
+    border-radius: 0;
+    padding: 5px;
+    color: #949494;
+}
+
+.cart4 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.cart5 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.cart6 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.cart7 a{
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.manufactor p{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900px;
+}
+
+.arrow2 {
+    text-align: right;
+}
+
+.arrow2 a{
+    text-decoration: none;
+    background-color: #e0e0de;
+    border-radius: 0;
+    padding: 5px;
+    color: #949494;
+}
+
+.signup {
+    background-color: #d4d4d4;
+}
+
+.email {
+    text-align: center;
+    border: 3px solid yellow;
+}
+
+.footer {
+    background-color: #424a4a;
+}
+
+.footer h2{
+    color: white;
+}
+
+.facebook p{
+    color: white;
+}
+
+.twitter p{
+    color: white;
+    font-size: 16px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: #00bcf9;
+    text-decoration: none;
+}
+
+.twitter a{
+    color: #00bcf9;
+}
+
+.like {
+    background-color: #00bcf9;
+    color: white;
+    border-radius: 0;
+    padding: 10px;
+}
+
+.promo {
+    text-decoration: none;
+    color: #00bcf9;
+}
+
+.footer li{
+    list-style-type: square;
+    color: #00bcf9;
+    padding-bottom: 10px;
+}
+
+.bottom {
+    background-color: #424a4a;
+}
+
+.bottom ul{
+    list-style: none;
+    padding: 10px;
+    padding-right: 50px;
+}
+
+.bottom li{
+    display: inline-block;
+    list-style: none;
+    padding-right: 10px;
+}
+
+.bottom p{
+    color: white;
+    font-size: 10px;
+    padding-top: 25px;
+    padding-left: 500px;
+}
+.submit {
+    text-decoration: none;
+    background-color: #424a4a;
+    border-radius: 0;
+    padding: 5px;
+    color: white;
+}
+
+.signup form{
+    padding-top: 10px;
+}
